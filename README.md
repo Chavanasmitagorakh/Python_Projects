@@ -27,4 +27,16 @@ The project performs:
 ---
 
 ## 📂 Project Structure
-
+road-accident-analysis/
+│
+├── data/
+│ └── Road Accident Data.csv
+│
+├── notebooks/
+│ └── Road_Accident_Analysis.ipynb
+│
+├── images/
+│ └── [visualizations saved here]
+│
+├── README.md
+└── requirements.txt
